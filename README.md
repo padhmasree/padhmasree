@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @padhmasree
+- 👀 I’m interested in paintings 
+- 🌱 I’m currently learning B.E cse in jjcet
+- 💞️ I’m looking to collaborate on ... MIT company.
+- Now i am learning the UX and figma software
+- I learn myself basic of python and c++.
