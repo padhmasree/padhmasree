@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @padhmasree
-- 👀 I’m interested in paintings 
-- 🌱 I’m currently learning B.E cse in jjcet
-- 💞️ I’m looking to collaborate on ... MIT company.
-- Now i am learning the UX and figma software
-- I learn myself basic of python and c++.
+I'm a passionate web enthusiast with a sharp eye for design and a love for clean, intuitive user interfaces. As a final-year Computer Science student, I thrive at the intersection of creativity and technology—crafting web solutions that don’t just function well, but feel great to use.
